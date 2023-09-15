@@ -1,0 +1,21 @@
+.alert {
+    width: 30%;
+    border-radius: 10px;
+}
+
+.bg-info-subtle {
+    height: 80vh;
+}
+
+.bg-info{
+    width: 22rem;
+}
+
+.card {
+    height: 100px;
+}
+
+#notodo {
+    margin: 20px;
+    font-size: 25px;
+}
