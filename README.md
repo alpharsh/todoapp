@@ -1,10 +1,22 @@
-![Forks](https://img.shields.io/badge/forks-44-blue)
-![Stars](https://img.shields.io/badge/stars-13-yellow)
-# ToDo-list-App
+# To-Do List Application
 
-## Description
-Welcome to our project! This is a Todo list App made in Python and the Django framework. It allows users to quickly and easily add, delete, and update events and tasks. With this App, users can effortlessly manage their tasks and events, helping them stay organized and on top of their to-do list. We hope you enjoy and we look forward to your contributions!
+## Overview
 
+This is a simple yet effective To-Do Web Application built with JavaScript, utilizing local storage for note storage and Bootstrap for a clean and responsive user interface.
+
+## Features
+
+- **User-Friendly Interface:** The application provides an intuitive and responsive layout, thanks to Bootstrap, making it easy for users to create and manage their to-do lists.
+
+- **Local Storage:** Notes entered by the user are stored securely in the web browser's local storage, ensuring persistence across sessions.
+
+- **Note Deletion:** Users can easily delete notes locally via the web browser, adding flexibility to manage their to-do lists.
+
+## Usage
+
+1. Clone this repository to your local machine.
+   ```bash
+   https://github.com/alpharsh/todoapp.git
 ## Contributing
 We welcome any and all contributions! Here are some ways you can get started:
 1. Report bugs: If you encounter any bugs, please let us know. Open up an issue and let us know the problem.
